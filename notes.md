@@ -15,6 +15,7 @@
 	- [ ] main.css
 	- [ ] playlist.css
 	- [ ] profile.css
+- [ ] Sukurti ir sudėlioti tekstą HTML failuose
 - [ ] Sutvarkyti visus failus (formatuoti, perrašyti komentarus, panaikinti duplikatus ir nereikalingas tuščias vietas)
 
 ## Papildoma informacija
