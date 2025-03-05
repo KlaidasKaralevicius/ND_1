@@ -7,6 +7,7 @@
 - [x] Sukurti SEO žymes HTML failuose tinklalapio informacijos atvaizdavimui
 - [x] Sujunti repositoriją su GitHub paskyra
 - [ ] Sukurti HTML failų šablonus:
+	- [ ] bendras (visų puslapių pagrindas)	
 	- [ ] main.html
 	- [ ] playlist.html
 	- [ ] profile.html
